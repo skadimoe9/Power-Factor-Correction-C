@@ -3,8 +3,8 @@ Final Project - Dasar Komputer dan Praktikum
 C Language 
 
 Note : 
-PAS_07 : Sebelum revisi, belum menggunakan menu 
-PAS_07R : Telah revisi, program memiliki menu, interface dibuat lebih rapih
+- PAS_07 : Sebelum revisi, belum menggunakan menu 
+- PAS_07R : Telah revisi, program memiliki menu, user interface dibuat lebih rapih, program dibuat lebih modular
 
 Power Factor Correction (PFC) Program merupakan program yang dibuat dengan tujuan untuk melakukan proses Power Factor Correction berdasarkan spesifikasi serta hasil pengukuran daya aktif yang dilakukan pada mesin-mesin yang digunakan pada mesin-mesin di industri manufaktur atau mesin-mesin di industri lainnya. Power Factor Correction dilakukan agar daya yang dikonsumsi oleh mesin dapat dimaksimalkan, sehingga sesuai atau mendekati dengan daya yang disuplai ke mesin tersebut dengan cara meminimalisir daya reaktif. Proses PFC dilakukan dengan cara menambahkan beban induktif atau kapasitif untuk meminimalisir nilai reaktansi atau nilai imajiner pada impedansi yang berada pada mesin, sehingga rugi-rugi daya dapat diminimalisir. 
 
