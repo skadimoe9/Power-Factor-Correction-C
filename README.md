@@ -1,6 +1,5 @@
 # Power-Factor-Correction-C
 Final Project - Dasar Komputer dan Praktikum 
-C Language 
 
 Note : 
 - PAS_07 : Sebelum revisi, belum menggunakan menu 
